@@ -1,4 +1,6 @@
-# N Lohidasu Reddy 👋
+# Hello! Everyone 👋
+
+## My Name is N Lohidasu Reddy
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/n-lohidasu-reddy/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lreddy563/)
@@ -10,7 +12,7 @@
 Python, C/C++, JavaScript, HTML, CSS, Groovy, Ruby, YML
 ```
 
-About me:
+### About me:
 
 - 🔭 I’m currently working at Kloudone @Chennai
 - 💬 Ask me about anything
