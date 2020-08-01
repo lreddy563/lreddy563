@@ -2,7 +2,7 @@
 
 ## My Name is Lohidasu 
 
-<img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/my-name.jpg" alt="">
+<img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/mybanner.png" alt="">
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/n-lohidasu-reddy/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lreddy563/)
