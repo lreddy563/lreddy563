@@ -22,7 +22,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 - 🐦 [@lreddy563](https://twitter.com/lreddy563)
 - 💬 [Telegram](https://telegram.me/lreddy563)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/nlohidasureddy)
-- 📧 You can also send me an [email](mailto:hello@lsantos.dev)
+- 📧 You can also send me an [email](mailto:lreddy563@gmail.com)
 
 ### Languages and Tools:
 
