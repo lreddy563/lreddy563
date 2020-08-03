@@ -1,6 +1,7 @@
 # Hello! Everyone 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/lreddy563)
-[![Linkedin: lhs-santos](https://img.shields.io/badge/-Lucas%20Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lhs-santos/)](https://www.linkedin.com/in/n-lohidasu-reddy/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lreddy563?label=Follow)](https://twitter.com/lreddy563)
+[![Linkedin: N Lohidasu Reddy](https://img.shields.io/badge/-n%20lohidasu%20reddy?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n-lohidasu-reddy/)](https://www.linkedin.com/in/n-lohidasu-reddy/)
+
 <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/n-lohidasu-reddy/)
