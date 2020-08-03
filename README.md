@@ -1,6 +1,6 @@
 # Hello! Everyone 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/lreddy563?label=Follow)](https://twitter.com/lreddy563)
-[![Linkedin: N Lohidasu Reddy](https://img.shields.io/badge/-n%20lohidasu%20reddy?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n-lohidasu-reddy/)](https://www.linkedin.com/in/n-lohidasu-reddy/)
+[![Linkedin: N Lohidasu Reddy](https://img.shields.io/badge/-Lohidasu%20Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n-lohidasu-reddy/)](https://www.linkedin.com/in/n-lohidasu-reddy/)
 
 <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
 
