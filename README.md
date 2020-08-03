@@ -21,13 +21,13 @@
 
 I love to talk to people and discuss tech! You can reach me out on any channels below!
 
-- 🔗 I have a personal website at [https://lsantos.dev](https://lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located! You can reach me anywhere over there!
-- 📝 I have a blog at [https://blog.lsantos.dev](https://blog.lsantos.dev?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link)
-  - I also write on [Medium](https://medium.com/@khaosdoctor), [FreeCodeCamp](https://www.freecodecamp.org/news/author/_staticvoid), and [Dev.to](https://dev.to/khaosdoctor)
+- 🔗 I have a personal website at [https://lohidasu-reddy.github.io/](https://lohidasu-reddy.github.io/) where all my social networks are located! You can reach me anywhere over there!
+- 📝 I have a blog at [https://thestoryteller4u.blogspot.com/](https://thestoryteller4u.blogspot.com/)
+  - I also write on [Medium](https://medium.com/@lreddy563), [FreeCodeCamp](https://www.freecodecamp.org/news/author/lreddy563), and [Dev.to](https://dev.to/lreddy563)
   - You can see my latest posts [down below](#latest-blog-posts)!
 - 🐦 [@lreddy563](https://twitter.com/lreddy563)
-- 💬 [Telegram](https://t.me/lhs_santoss)
-- 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCki-WnBzwzpvbBDk4swJniQ?sub_confirmation=1)
+- 💬 [Telegram](https://telegram.me/lreddy563)
+- 📹 [Subscribe on YouTube](https://www.youtube.com/nlohidasureddy)
 - 📧 You can also send me an [email](mailto:hello@lsantos.dev)
 
 
