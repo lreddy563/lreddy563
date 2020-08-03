@@ -17,7 +17,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 - 🔗 I have a personal website at [https://lohidasu-reddy.github.io/](https://lohidasu-reddy.github.io/) where all my social networks are located! You can reach me anywhere over there!
 - 📝 I have a blog at [https://thestoryteller4u.blogspot.com/](https://thestoryteller4u.blogspot.com/)
-  - I also write on [Medium](https://medium.com/@lreddy563), [FreeCodeCamp](https://www.freecodecamp.org/news/author/lreddy563), and [Dev.to](https://dev.to/lreddy563)
+  - I also write on [Medium](https://medium.com/@lreddy563), [FreeCodeCamp](https://www.freecodecamp.org/lreddy563), and [Dev.to](https://dev.to/lreddy563)
   - You can see my latest posts [down below](#latest-blog-posts)!
 - 🐦 [@lreddy563](https://twitter.com/lreddy563)
 - 💬 [Telegram](https://telegram.me/lreddy563)
