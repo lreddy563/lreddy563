@@ -26,28 +26,51 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
+### My Blog
 
+<!-- BLOG:START -->
+- [Executando Containers no Azure Container Instancies com Docker](https://blog.lsantos.dev/executando-containers-no-azure-container-instancies-com-docker/)
+- [Notícias Semanais #2](https://blog.lsantos.dev/noticias-semanais-2/)
+- [Imersão Alura React Live #02 - Usando TypeScript no nosso projeto](https://blog.lsantos.dev/imersao-react-live-02-usando-typescript-no-nosso-projeto/)
+- [Um Mergulho em Imagens de Containers - Parte 2](https://blog.lsantos.dev/um-mergulho-em-imagens-de-containers-parte-2/)
+- [Resumo semanal #1](https://blog.lsantos.dev/noticias-semanais-1/)
+<!-- BLOG:END -->
+
+### FreeCodeCamp
+
+<!-- FCC:START -->
+- [How to Get Organized – Hard Won Tips to Organize Your Life](https://www.freecodecamp.org/news/the-complete-guide-to-personal-organization/)
+<!-- FCC:END -->
+
+### Dev Community
+
+<!-- DEVTO:START -->
+- [Um Mergulho em Imagens de Containers - Parte 2](https://dev.to/azure/um-mergulho-em-imagens-de-containers-parte-2-3cb2)
+- [Um Mergulho em Imagens de Containers - Parte 1](https://dev.to/azure/um-mergulho-em-imagens-de-containers-parte-1-3cl7)
+- [Olá, Mundo!](https://dev.to/khaosdoctor/ola-mundo-35ha)
+- [Node.js por Baixo dos Panos #10 - Otimizações do Compilador](https://dev.to/khaosdoctor/node-js-por-baixo-dos-panos-10-otimizacoes-do-compilador-39oi)
+- [Do zero à automação em 7 minutos com GitHub Actions](https://dev.to/azure/do-zero-a-automacao-em-7-minutos-com-github-actions-1386)
+<!-- DEVTO:END -->
+
+### Medium
+
+<!-- MEDIUM:START -->
+- [Como e Por Que Todo Dev Deveria Escrever Artigos](https://medium.com/@khaosdoctor/como-e-por-que-todo-dev-deveria-escrever-artigos-1f8b9ba74d4?source=rss-84c42a22cef7------2)
+- [Do zero à automação em 7 minutos com GitHub Actions](https://medium.com/@khaosdoctor/do-zero-%C3%A0-automa%C3%A7%C3%A3o-em-7-minutos-com-github-actions-ca08364e8c36?source=rss-84c42a22cef7------2)
+- [Javascript: Entendendo Async Iterators](https://medium.com/trainingcenter/javascript-entendendo-async-iterators-8322fc7106db?source=rss-84c42a22cef7------2)
+- [Entendendo Promises de uma vez por todas](https://medium.com/trainingcenter/entendendo-promises-de-uma-vez-por-todas-32442ec725c2?source=rss-84c42a22cef7------2)
+<!-- MEDIUM:END -->
+
+
+
+### GitHub Stats Card
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lreddy563&show_icons=true&theme=radical" alt="lreddy563"/>
 </a>
+<br>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact&theme=radical" alt="lreddy563"/>
 </a>
+
+
