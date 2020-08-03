@@ -1,16 +1,10 @@
 # Hello! Everyone 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/lreddy563?label=Follow)](https://twitter.com/lreddy563)
 [![Linkedin: N Lohidasu Reddy](https://img.shields.io/badge/-Lohidasu%20Reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/n-lohidasu-reddy/)](https://www.linkedin.com/in/n-lohidasu-reddy/)
-
-<img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/n-lohidasu-reddy/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/lreddy563/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=white)](https://www.facebook.com/lreddy563/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:lreddy563@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-
-### Languages and Tools:
-
+<img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
 
 ### About me:
 
