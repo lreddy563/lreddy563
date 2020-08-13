@@ -29,13 +29,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact" alt="lreddy563"/>
 </p>
 
-```javascript
-
-              ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
-              ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
-              ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
-
-```
 <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -54,7 +47,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-<br>
 <h3 align='center'>📝  Sometimes I like to write things here...</h3>
 <p align='center'>
   <a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
