@@ -29,7 +29,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact" alt="lreddy563"/>
 </p>
 
-<p align="center">
 ```javascript
 
               ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
@@ -37,8 +36,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
               ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
 
 ```
-</p>
-
 <h3 align="center">💻 Languages and Tools</h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
