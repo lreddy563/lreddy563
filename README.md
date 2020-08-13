@@ -32,32 +32,10 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 - 📹 [Subscribe on YouTube](https://www.youtube.com/nlohidasureddy)
 - 📧 You can also send me an [email](mailto:lreddy563@gmail.com)
 
-### Languages and Tools:
-
-
-### My Blog
-
-<!-- BLOG:START -->
-<!-- BLOG:END -->
-
-
-### Dev Community
-
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
-
-### Medium
-
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-
-
-
 ### GitHub Stats Card
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lreddy563&show_icons=true&theme=radical" alt="lreddy563"/>
 </a>
-<br>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact&theme=radical" alt="lreddy563"/>
 </a>
