@@ -6,6 +6,14 @@
 
 <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
 
+
+```javascript
+
+╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
+╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
+╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
+
+```
 ### About me:
 
 - I’m currently working at Kloudone @Chennai
@@ -53,5 +61,29 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact&theme=radical" alt="lreddy563"/>
 </a>
+
+
+```javascript
+/**
+ * 
+ * Let's fight for Corona together!
+ */
+function stayAtHome() {
+  eat();
+  sleep();
+  code();
+  WFH();
+  repeat();
+}
+
+while(_.isAlive(new Virus('COVID-19'))) {
+  // Stay home, Stay safe
+  stayAtHome();
+}
+
+```
+
+## Edited < /> with ♡ by Lohidasu
+
 
 
