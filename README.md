@@ -7,13 +7,11 @@
 <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
 
 
-```javascript
 
                                     ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
                                     ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
                                     ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
 
-```
 ### About me:
 
 - I’m currently working at Kloudone @Chennai
