@@ -9,9 +9,9 @@
 
 ```javascript
 
-                                                ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
-                                                ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
-                                                ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
+                                    ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
+                                    ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
+                                    ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
 
 ```
 ### About me:
@@ -63,7 +63,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 </a>
 
 
-                                              ```javascript
+ ```javascript
                                               /**
                                                * 
                                                * Let's fight for Corona together!
@@ -81,9 +81,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
                                                 stayAtHome();
                                               }
 
-                                              ```
+ ```
 
 ## Edited < /> with ♡ by Lohidasu
-
-
-
