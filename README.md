@@ -28,10 +28,13 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact" alt="lreddy563"/>
 </p>
+
 ```javascript
-╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
-╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
-╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
+
+  ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
+  ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
+  ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
+
 ```
 
 <h1 align="center">Languages and Tools</h1>
@@ -72,10 +75,10 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <a href="https://www.linkedin.com/in/n-lohidasu-reddy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:lreddy563@gmail.com?subject=Hola%20lohidasu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="https://lreddy563.github.io/"><img src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Flreddy563.github.io%2F" alt="Website"></a>&nbsp;
-<a href="https://twitter.com/lreddy563"><img src="https://img.shields.io/badge/twitter-%23D14836.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
-<a href="https://telegram.me/lreddy563"><img src="https://img.shields.io/badge/telegram-%23D14836.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
+<a href="https://twitter.com/lreddy563"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;
+<a href="https://telegram.me/lreddy563"><img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
 <a href="https://www.youtube.com/nlohidasureddy"><img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;
-<a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/medium-%23D14836.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
 </p>
 
  ```javascript
