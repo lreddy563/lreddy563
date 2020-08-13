@@ -9,9 +9,9 @@
 
 ```javascript
 
-╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
-╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
-╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
+                                                ╔═╗╔╦╗╔═╗╦ ╦  ╦ ╦╔═╗╔╦╗╔═╗   ╔═╗╔╦╗╔═╗╦ ╦  ╔═╗╔═╗╔═╗╔═╗
+                                                ╚═╗ ║ ╠═╣╚╦╝  ╠═╣║ ║║║║║╣    ╚═╗ ║ ╠═╣╚╦╝  ╚═╗╠═╣╠╣ ║╣  
+                                                ╚═╝ ╩ ╩ ╩ ╩   ╩ ╩╚═╝╩ ╩╚═╝   ╚═╝ ╩ ╩ ╩ ╩   ╚═╝╩ ╩╚  ╚═╝
 
 ```
 ### About me:
@@ -63,25 +63,25 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 </a>
 
 
-```javascript
-/**
- * 
- * Let's fight for Corona together!
- */
-function stayAtHome() {
-  eat();
-  sleep();
-  code();
-  WFH();
-  repeat();
-}
+                                              ```javascript
+                                              /**
+                                               * 
+                                               * Let's fight for Corona together!
+                                               */
+                                              function stayAtHome() {
+                                                eat();
+                                                sleep();
+                                                code();
+                                                WFH();
+                                                repeat();
+                                              }
 
-while(_.isAlive(new Virus('COVID-19'))) {
-  // Stay home, Stay safe
-  stayAtHome();
-}
+                                              while(_.isAlive(new Virus('COVID-19'))) {
+                                                // Stay home, Stay safe
+                                                stayAtHome();
+                                              }
 
-```
+                                              ```
 
 ## Edited < /> with ♡ by Lohidasu
 
