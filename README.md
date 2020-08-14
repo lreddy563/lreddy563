@@ -1,7 +1,8 @@
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=lreddy563.lreddy563)
 ![status](https://img.shields.io/badge/status-focusing-brightgreen) 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-![](https://img.shields.io/badge/Relationship-Single-red) 
+![](https://img.shields.io/badge/Relationship-Single-red)
+![Repos Badge](https://badges.pufler.dev/repos/lreddy563?style=for-the-badge&color=red)
 <a href="https://github.com/lreddy563"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlreddy563&longCache=true"/></a>
 <p align='center'>
 <img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="20%" height="05%">
@@ -84,6 +85,8 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <p align='center'>
   <a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://dev.to/lreddy563"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://lohidasu-reddy.github.io"><img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" />
+</a>&nbsp;&nbsp;
 <a href="https://thestoryteller4u.blogspot.com/"><img src="https://img.shields.io/badge/blogspot-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
