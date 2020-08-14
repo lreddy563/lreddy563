@@ -31,7 +31,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 <h3 align="center">💻 Languages and Tools</h3>
 <h4 align="left">Programming Languages: </h4>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
@@ -42,20 +42,32 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <h4 align="left">Version Control Tools: </h4>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <h4 align="left">Hosting/SaaS Tools: </h4>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;&nbsp;
 </p>
+<h4 align="left">Servers: </h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/tomcat%20-%23009639.svg?&style=for-the-badge&logo=tomcat&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
+</p>
+<h4 align="left">Databases: </h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;&nbsp;
+  <img src ="https://img.shields.io/badge/sqllite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
+</p>
 <h4 align="left">DevOps Tools: </h4>
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
