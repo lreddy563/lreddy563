@@ -93,7 +93,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <a href="https://twitter.com/lreddy563"><img src="https://img.shields.io/badge/twitter-%230db7ed.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
 <a href="https://telegram.me/lreddy563"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/917795180140"><img src="https://img.shields.io/badge/whatsapp-%23009639.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/nlohidasureddy"><img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;&nbsp;
 </p>
 
  ```javascript
