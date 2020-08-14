@@ -3,7 +3,7 @@
   <img  src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
 <p align='center'>
-<!--img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt=""-->
+<img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="10%">
 </p>
 <h2 align="center"> Hi over there <img width="30px" src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Hi.gif"> , I'm <a href="http://lreddy563.github.io/">Lohidasu </a>🧑🏻‍ - 💻</h2>
 
@@ -82,7 +82,8 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <a href="https://lreddy563.github.io/"><img src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Flreddy563.github.io%2F" alt="Website"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://thestoryteller4u.blogspot.com/"><img src="https://img.shields.io/badge/blogspot-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h3 align="left"> 💬 Reach Out to Me At</h3>
+<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
+<!-- h3 align="left"> 💬 Reach Out to Me At</h3> -->
 <p align="center">
 <a href="https://www.facebook.com/lreddy563/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/lreddy563/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
