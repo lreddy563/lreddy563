@@ -1,8 +1,7 @@
 ![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=lreddy563.lreddy563)
 ![status](https://img.shields.io/badge/status-focusing-brightgreen) 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
-![](https://img.shields.io/badge/Relationship-Single-red)
-![Repos Badge](https://badges.pufler.dev/repos/lreddy563?style=for-the-badge&color=red)
+![Relationship](https://img.shields.io/badge/Relationship-Single-red)
 <a href="https://github.com/lreddy563"><img align="right" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlreddy563&longCache=true"/></a>
 <p align='center'>
 <img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="20%" height="05%">
