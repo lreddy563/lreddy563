@@ -2,7 +2,7 @@
   <img  src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
 <p align='center'>
-<img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
+<!--img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt=""-->
 </p>
 <h2 align="center"> Hi over there <img width="30px" src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Hi.gif"> , I'm <a href="http://lreddy563.github.io/">Lohidasu </a>🧑🏻‍ - 💻</h2>
 
