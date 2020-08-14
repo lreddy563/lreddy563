@@ -3,7 +3,7 @@
   <img  src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
 <p align='center'>
-<img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="30%" height="10%">
+<img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="20%" height="05%">
 </p>
 <h2 align="center"> Hi over there <img width="30px" src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Hi.gif"> , I'm <a href="http://lreddy563.github.io/">Lohidasu </a>🧑🏻‍ - 💻</h2>
 
