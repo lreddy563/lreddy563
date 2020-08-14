@@ -1,4 +1,4 @@
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=lreddy563.lreddy563)
 <p align='center'>
   <img  src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Developer.gif" alt="Developer gif">
 </p>
