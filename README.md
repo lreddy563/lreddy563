@@ -71,9 +71,11 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ansible%20-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white"/>&nbsp;&nbsp;
-</p>
+  <img src="https://img.shields.io/badge/vagrant%20-%231563FF.svg?&style=for-the-badge&logo=vagrant&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/terraform%20-%23326ce5.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vault%20-%231A1918.svg?&style=for-the-badge&logo=vault&logoColor=white"/>&nbsp;&nbsp;
+</p>                                                                                                      
 <h3 align='center'>📝  Sometimes I like to write things here...</h3>
 <p align='center'>
   <a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
