@@ -56,7 +56,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 </p>
 <h4 align="left">Servers: </h4>
 <p align="left">
-  <img src="https://img.shields.io/badge/tomcat%20-%23009639.svg?&style=for-the-badge&logo=tomcat&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;&nbsp;
 </p>
@@ -89,7 +88,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 <a href="https://www.linkedin.com/in/n-lohidasu-reddy/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:lreddy563@gmail.com?subject=Hola%20lohidasu"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
 <a href="https://twitter.com/lreddy563"><img src="https://img.shields.io/badge/twitter-%230db7ed.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
-<a href="https://telegram.me/lreddy563"><img src="https://img.shields.io/badge/telegram-%231877F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
+<a href="https://telegram.me/lreddy563"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/917795180140"><img src="https://img.shields.io/badge/whatsapp-%23009639.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/nlohidasureddy"><img src="https://img.shields.io/badge/youtube-%23D14836.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;&nbsp;
 </p>
