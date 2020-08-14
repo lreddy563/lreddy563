@@ -78,10 +78,10 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 </p>                                                                                                      
 <h3 align='left'>📝  Sometimes I like to write things here...</h3>
 <p align='center'>
-  <a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/lreddy563"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://lreddy563.github.io/"><img src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Flreddy563.github.io%2F" alt="Website"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://thestoryteller4u.blogspot.com/"><img src="https://img.shields.io/badge/blogspot-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://dev.to/lreddy563"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://lreddy563.github.io/"><img src="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22" alt="Website"></a>&nbsp;&nbsp;
+  <a href="https://thestoryteller4u.blogspot.com/"><img src="https://img.shields.io/badge/blogspot-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
 <!-- h3 align="left"> 💬 Reach Out to Me At</h3> -->
