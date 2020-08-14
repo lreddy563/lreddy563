@@ -29,7 +29,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lreddy563&layout=compact" alt="lreddy563"/>
 </p>
 
-<h3 align="center">💻 Languages and Tools</h3>
+<h3 align="left">💻 Languages and Tools</h3>
 <h4 align="left">Programming Languages: </h4>
 <p align="left">
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&nbsp;&nbsp;
@@ -76,14 +76,14 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
   <img src="https://img.shields.io/badge/terraform%20-%23326ce5.svg?&style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vault%20-%231A1918.svg?&style=for-the-badge&logo=vault&logoColor=white"/>&nbsp;&nbsp;
 </p>                                                                                                      
-<h3 align='center'>📝  Sometimes I like to write things here...</h3>
+<h3 align='left'>📝  Sometimes I like to write things here...</h3>
 <p align='center'>
   <a href="https://medium.com/@lreddy563"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://dev.to/lreddy563"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://lreddy563.github.io/"><img src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Flreddy563.github.io%2F" alt="Website"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://thestoryteller4u.blogspot.com/"><img src="https://img.shields.io/badge/blogspot-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<h3 align="center"> 💬 Reach Out to Me At</h3>
+<h3 align="left"> 💬 Reach Out to Me At</h3>
 <p align="center">
 <a href="https://www.facebook.com/lreddy563/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/lreddy563/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
