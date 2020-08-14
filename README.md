@@ -4,7 +4,7 @@
 <p align='center'>
 <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/new1.jpg" alt="">
 </p>
-<h2 align="center"> Hi over there <img width="30px" src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Hi.gif"> ,I'm <a href="http://lreddy563.github.io/">Lohidasu </a>🧑🏻‍ - 💻</h2>
+<h2 align="center"> Hi over there <img width="30px" src="https://github.com/lreddy563/lreddy563/blob/master/gifs/Hi.gif"> , I'm <a href="http://lreddy563.github.io/">Lohidasu </a>🧑🏻‍ - 💻</h2>
 
 ### About me:
 
@@ -30,6 +30,9 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 </p>
 
 <h3 align="center">💻 Languages and Tools</h3>
+<p align="center">
+Programming Languages: <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/lreddy563/lreddy563/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
