@@ -1,4 +1,3 @@
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=lreddy563)
 ![status](https://img.shields.io/badge/status-focusing-brightgreen) 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![Relationship](https://img.shields.io/badge/Relationship-Single-red)
